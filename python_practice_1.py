@@ -1,0 +1,1 @@
+print("Artem Trubitsyn, ІПЗ-2, група-5")
